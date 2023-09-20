@@ -1,0 +1,7 @@
+    <!-- 2. Explain the purpose of comments in HTML and provide an example of how to use comments in an HTML  -->
+
+    Comments are not displayed in the browsers. You can use comments to explain your code, which can help you when you edit the source code at a later date. This is especially useful if you have a lot of code.
+
+    Example of a comment
+
+    <!-- <h1>HTML defines the content and structure of your website</h1> -->

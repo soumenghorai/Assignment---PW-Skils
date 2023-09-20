@@ -1,0 +1,10 @@
+4. Write a short note on Tag and element with an Example
+
+Tag - An HTML tag is a piece of markup language used to indicate the beginning and end of an HTML element in an HTML document.
+
+Example of tag - Head, body, div, span and img
+
+Element - An HTML element is a component of an HTML document that tells a web browser how to structure and interpret a part of the HTML document. HTML elements can contain formatting instructions, semantic meaning, and content.
+
+Example of element - <h1>My First Heading</h1>
+<p>My first paragraph.</p>
