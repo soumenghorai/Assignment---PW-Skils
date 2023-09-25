@@ -1,0 +1,11 @@
+1. List out the features of HTML5 
+
+i. Semantic Elements - When constructing an HTML script, the term “semantic” refers to the meaning of the text. Semantics, to put it simply, is the use of HTML tags that accurately reflect the content they contain. For instance, using the <div> tag doesn’t suggest the content it will carry, however using the <p> tag suggests it can be used to hold paragraph information. 
+
+ii. Audio and Video Support - One of the many HTML 5 features is the support for audio and video. It has reduced the hassle of relying upon third-party services such as Adobe Flash player. To embed Audio and Video into your HTML document, you may use the following two tags, <audio> and <video> tags
+
+iii. Geolocation API - The Geolocation API is an HTML feature that is used to access the geographical position of a user, however, it is not accessed unless the user approves of it. If you’re wondering where this feature is useful, these come in handy while creating apps like taxi apps, food order tracking apps, fitness tracking apps, and more. 
+
+iv. Local Storage - It is a modern feature of HTML and several browsers that typically store data in the user’s browsers and can access them with the help of JavaScript APIs. This feature is useful for creating offline applications where data is need to be stored locally. 
+
+v. Web Sockets - In the previous versions of HTML, when a client sends a request to the backend server, the server then responds afterward. However, in HTML 5 we can establish a bidirectional live communication between the server and the client (a web browser) to reduce the latency in the responses. 

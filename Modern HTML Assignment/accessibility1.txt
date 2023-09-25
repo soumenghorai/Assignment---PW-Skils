@@ -1,0 +1,17 @@
+4. List any 3 ways which help us in improving the accessibility of HTML.
+
+Importance of Accessible websites
+
+i. Equitable Use: The design is useful and marketable to people with diverse abilities.
+
+ii. Flexibility in Use: The design accommodates a wide range of individual preferences and abilities.
+
+iii. Simple & Intuitive Use: Use of the design is easy to understand, regardless of the user's experience, knowledge, language skills, or current concentration level.
+
+iv. Perceptible Information: The design communicates necessary information effectively to the user, regardless of ambient conditions or the user's sensory abilities.
+
+v. Tolerance for Error: The design minimizes hazards and the adverse consequences of accidental or unintended actions.
+
+vi. Low Physical Effort: The design can be used efficiently and comfortably and with a minimum of fatigue.
+
+vii. Size and Space for approach and Use: Appropriate size and space is provided for approach, reach, manipulation, and use regardless of user's body size, posture, or mobility.

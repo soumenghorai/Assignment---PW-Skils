@@ -1,0 +1,13 @@
+3. Define accessibility in the contex of web development
+
+Web accessibility is not only ethical but also a sound business practice as well as a legal obligation.
+
+Economically, ignoring the disabled community means ignoring millions of potential customers with billions in purchasing power. In the United States alone, the purchasing power of assistive-technology Internet users is worth more than $350 billion.
+
+After considering the size of this community across the rest of the Americas, Europe, and elsewhere, it is clear that ignoring this demographic would be a mistake. 
+
+In many places, web accessibility protected under various laws. In the U.S., the Workforce Rehabilitation Act of 1973 requires that all “electronic and information technology developed, procured, maintained, or used by the federal government be accessible to people with disabilities.”
+
+Also, the Twenty-First Century Communications and Video Accessibility Act requires that advanced communications services and products to be accessible by people with disabilities.
+
+Although many European states have their  own national laws outlining the protections for web accessibility, the European Union too protects digital accessibility under the European Charter of Fundamental Rights. As a result, web accessibility is an important requirement that all need to meet.   
